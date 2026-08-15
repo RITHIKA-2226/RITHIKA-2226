@@ -6,8 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RITHIKA-2226&color=58A6FF&style=flat-square&label=Profile+Views)
-
 </div>
 
 <p align="center">
@@ -172,7 +170,7 @@ Aspiring technology professional pursuing a B.Tech in Information Technology, wi
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2EA043?style=for-the-badge)
 ![Leadership](https://img.shields.io/badge/Leadership-2EA043?style=for-the-badge)
 ![Team Coordination](https://img.shields.io/badge/Team_Coordination-2EA043?style=for-the-badge)
-![Placement Coordinator](https://img.shields.io/badge/Placement_Coordinator-2EA043?style=for-the-badge)
+
 
 </div>
 
