@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RITHIKA-2226&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -160,7 +160,7 @@ Aspiring technology professional pursuing a B.Tech in Information Technology, wi
 
 | Institution | Degree / Course | Duration | Score |
 |---|---|---|---|
-| VSB Engineering College, Karur | B.Tech Information Technology | 2023 – 2027 | CGPA: 8.56/10 |
+| VSB Engineering College, Karur | B.Tech Information Technology | 2023 – 2027 | CGPA: 8.47/10 |
 | Kalaimagal Matric Higher Secondary School, Mohanur | HSC – State Board | 2022 – 2023 | 81.33% |
 
 <br/>
