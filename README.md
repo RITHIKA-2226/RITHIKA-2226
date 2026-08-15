@@ -182,16 +182,13 @@ Aspiring technology professional pursuing a B.Tech in Information Technology, wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RITHIKA-2226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITHIKA-2226&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHIKA-2226&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
 </div>
 
-> Replace `RITHIKA-2226` above with your actual GitHub username for the stats cards to render.
+
 
 <br/>
 
